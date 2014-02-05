@@ -1,0 +1,117 @@
+[15-Apr-2012 21:38:06] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/ruggeri/public_html/labs/quim/index.php on line 30
+[15-Apr-2012 21:43:48] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/ruggeri/public_html/labs/quim/index.php on line 36
+[15-Apr-2012 21:58:57] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/ruggeri/public_html/labs/quim/index.php on line 42
+[15-Apr-2012 21:59:42] PHP Fatal error:  Call to undefined function vardump() in /home/ruggeri/public_html/labs/quim/index.php on line 42
+[15-Apr-2012 22:00:15] PHP Parse error:  syntax error, unexpected '[' in /home/ruggeri/public_html/labs/quim/index.php on line 42
+[15-Apr-2012 22:00:25] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/ruggeri/public_html/labs/quim/index.php on line 42
+[15-Apr-2012 22:01:35] PHP Parse error:  syntax error, unexpected '[' in /home/ruggeri/public_html/labs/quim/index.php on line 42
+[15-Apr-2012 22:01:53] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/ruggeri/public_html/labs/quim/index.php on line 42
+[15-Apr-2012 22:02:40] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/ruggeri/public_html/labs/quim/index.php on line 41
+[15-Apr-2012 22:03:08] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/ruggeri/public_html/labs/quim/index.php on line 41
+[15-Apr-2012 22:03:18] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/ruggeri/public_html/labs/quim/index.php on line 41
+[15-Apr-2012 22:05:42] PHP Parse error:  syntax error, unexpected '[' in /home/ruggeri/public_html/labs/quim/index.php on line 41
+[15-Apr-2012 22:06:21] PHP Parse error:  syntax error, unexpected '[' in /home/ruggeri/public_html/labs/quim/index.php on line 41
+[15-Apr-2012 22:07:38] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/ruggeri/public_html/labs/quim/index.php on line 43
+[15-Apr-2012 22:11:01] PHP Parse error:  syntax error, unexpected '[' in /home/ruggeri/public_html/labs/quim/index.php on line 48
+[15-Apr-2012 22:11:41] PHP Parse error:  syntax error, unexpected '[' in /home/ruggeri/public_html/labs/quim/index.php on line 48
+[15-Apr-2012 22:12:13] PHP Parse error:  syntax error, unexpected '[' in /home/ruggeri/public_html/labs/quim/index.php on line 48
+[15-Apr-2012 22:12:46] PHP Parse error:  syntax error, unexpected '[' in /home/ruggeri/public_html/labs/quim/index.php on line 45
+[15-Apr-2012 22:13:05] PHP Parse error:  syntax error, unexpected '[' in /home/ruggeri/public_html/labs/quim/index.php on line 45
+[15-Apr-2012 22:30:40] PHP Parse error:  syntax error, unexpected T_PRINT in /home/ruggeri/public_html/labs/quim/index.php on line 46
+[15-Apr-2012 22:32:07] PHP Parse error:  syntax error, unexpected T_PRINT in /home/ruggeri/public_html/labs/quim/index.php on line 47
+[15-Apr-2012 22:35:26] PHP Parse error:  syntax error, unexpected T_PRINT in /home/ruggeri/public_html/labs/quim/index.php on line 47
+[15-Apr-2012 22:55:37] PHP Warning:  imagejpeg() expects parameter 1 to be resource, string given in /home/ruggeri/public_html/labs/quim/index.php on line 63
+[15-Apr-2012 22:56:49] PHP Fatal error:  Call to undefined function imagecreatefromjpg() in /home/ruggeri/public_html/labs/quim/index.php on line 63
+[15-Apr-2012 22:56:59] PHP Fatal error:  Call to undefined function imagecreatefromjpg() in /home/ruggeri/public_html/labs/quim/index.php on line 63
+[15-Apr-2012 22:57:13] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/ruggeri/public_html/labs/quim/index.php on line 63
+[15-Apr-2012 22:57:13] PHP Warning:  imagecreatefromjpeg(http://farm6.staticflickr.com/5344/7082286897_f6d447cbb5.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: no suitable wrapper could be found in /home/ruggeri/public_html/labs/quim/index.php on line 63
+[15-Apr-2012 22:57:13] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/index.php on line 63
+[15-Apr-2012 23:00:21] PHP Fatal error:  Class 'Imagick' not found in /home/ruggeri/public_html/labs/quim/index.php on line 61
+[15-Apr-2012 23:02:16] PHP Parse error:  syntax error, unexpected T_STRING in /home/ruggeri/public_html/labs/quim/index.php on line 62
+[15-Apr-2012 23:07:50] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/ruggeri/public_html/labs/quim/index.php on line 61
+[15-Apr-2012 23:07:50] PHP Warning:  imagecreatefromjpeg(http://farm6.staticflickr.com/5119/6936443310_8f142e1aff.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: no suitable wrapper could be found in /home/ruggeri/public_html/labs/quim/index.php on line 61
+[15-Apr-2012 23:32:10] PHP Warning:  base64_decode() expects parameter 1 to be string, resource given in /home/ruggeri/public_html/labs/quim/index.php on line 64
+[15-Apr-2012 23:32:32] PHP Warning:  base64_encode() expects parameter 1 to be string, resource given in /home/ruggeri/public_html/labs/quim/index.php on line 64
+[15-Apr-2012 23:53:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruggeri/public_html/labs/quim/quim.php:1) in /home/ruggeri/public_html/labs/quim/quim.php on line 35
+[15-Apr-2012 23:53:52] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ruggeri/public_html/labs/quim/quim.php on line 36
+[15-Apr-2012 23:54:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruggeri/public_html/labs/quim/quim.php:1) in /home/ruggeri/public_html/labs/quim/quim.php on line 6
+[15-Apr-2012 23:54:59] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ruggeri/public_html/labs/quim/quim.php on line 30
+[15-Apr-2012 23:55:44] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ruggeri/public_html/labs/quim/quim.php on line 30
+[15-Apr-2012 23:56:01] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ruggeri/public_html/labs/quim/quim.php on line 30
+[16-Apr-2012 00:03:05] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /home/ruggeri/public_html/labs/quim/quim.php on line 28
+[16-Apr-2012 00:03:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruggeri/public_html/labs/quim/quim.php:28) in /home/ruggeri/public_html/labs/quim/quim.php on line 31
+[16-Apr-2012 00:03:27] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /home/ruggeri/public_html/labs/quim/quim.php on line 28
+[16-Apr-2012 00:03:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruggeri/public_html/labs/quim/quim.php:28) in /home/ruggeri/public_html/labs/quim/quim.php on line 31
+[16-Apr-2012 00:10:49] PHP Parse error:  syntax error, unexpected ';' in /home/ruggeri/public_html/labs/quim/quim.php on line 26
+[16-Apr-2012 00:10:59] PHP Parse error:  syntax error, unexpected ';' in /home/ruggeri/public_html/labs/quim/quim.php on line 26
+[16-Apr-2012 01:03:23] PHP Parse error:  syntax error, unexpected ')' in /home/ruggeri/public_html/labs/quim/quim.php on line 41
+[16-Apr-2012 01:03:55] PHP Parse error:  syntax error, unexpected ')' in /home/ruggeri/public_html/labs/quim/quim.php on line 41
+[16-Apr-2012 01:04:26] PHP Parse error:  syntax error, unexpected ')' in /home/ruggeri/public_html/labs/quim/quim.php on line 41
+[16-Apr-2012 01:04:52] PHP Parse error:  syntax error, unexpected ')' in /home/ruggeri/public_html/labs/quim/quim.php on line 41
+[16-Apr-2012 01:05:10] PHP Parse error:  syntax error, unexpected ')' in /home/ruggeri/public_html/labs/quim/quim.php on line 41
+[16-Apr-2012 01:05:41] PHP Parse error:  syntax error, unexpected '%' in /home/ruggeri/public_html/labs/quim/quim.php on line 42
+[16-Apr-2012 01:05:44] PHP Parse error:  syntax error, unexpected '%' in /home/ruggeri/public_html/labs/quim/quim.php on line 42
+[16-Apr-2012 01:06:02] PHP Fatal error:  Call to undefined function int() in /home/ruggeri/public_html/labs/quim/quim.php on line 36
+[19-Dec-2012 15:18:03] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/ruggeri/public_html/labs/quim/index.php on line 24
+[19-Dec-2012 15:19:05] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/ruggeri/public_html/labs/quim/index.php on line 24
+[19-Dec-2012 15:27:15] PHP Fatal error:  Function name must be a string in /home/ruggeri/public_html/labs/quim/quim.php on line 22
+[19-Dec-2012 15:27:20] PHP Fatal error:  Function name must be a string in /home/ruggeri/public_html/labs/quim/quim.php on line 22
+[19-Dec-2012 15:27:35] PHP Fatal error:  Function name must be a string in /home/ruggeri/public_html/labs/quim/quim.php on line 22
+[19-Dec-2012 15:27:58] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ruggeri/public_html/labs/quim/quim.php on line 28
+[19-Dec-2012 15:27:58] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 29
+[19-Dec-2012 15:27:58] PHP Warning:  Division by zero in /home/ruggeri/public_html/labs/quim/quim.php on line 36
+[19-Dec-2012 15:27:58] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 39
+[19-Dec-2012 15:27:58] PHP Warning:  imagestring() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 45
+[19-Dec-2012 15:27:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruggeri/public_html/labs/quim/quim.php:28) in /home/ruggeri/public_html/labs/quim/quim.php on line 48
+[19-Dec-2012 15:27:58] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[19-Dec-2012 15:28:07] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ruggeri/public_html/labs/quim/quim.php on line 28
+[19-Dec-2012 15:28:07] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 29
+[19-Dec-2012 15:28:07] PHP Warning:  Division by zero in /home/ruggeri/public_html/labs/quim/quim.php on line 36
+[19-Dec-2012 15:28:07] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 39
+[19-Dec-2012 15:28:07] PHP Warning:  imagestring() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 45
+[19-Dec-2012 15:28:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruggeri/public_html/labs/quim/quim.php:28) in /home/ruggeri/public_html/labs/quim/quim.php on line 48
+[19-Dec-2012 15:28:07] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[19-Dec-2012 15:28:10] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ruggeri/public_html/labs/quim/quim.php on line 28
+[19-Dec-2012 15:28:10] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 29
+[19-Dec-2012 15:28:10] PHP Warning:  Division by zero in /home/ruggeri/public_html/labs/quim/quim.php on line 36
+[19-Dec-2012 15:28:10] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 39
+[19-Dec-2012 15:28:10] PHP Warning:  imagestring() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 45
+[19-Dec-2012 15:28:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruggeri/public_html/labs/quim/quim.php:28) in /home/ruggeri/public_html/labs/quim/quim.php on line 48
+[19-Dec-2012 15:28:10] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[19-Dec-2012 16:04:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/ruggeri/public_html/labs/quim/quim.php on line 55
+[19-Dec-2012 16:05:31] PHP Parse error:  syntax error, unexpected T_STRING in /home/ruggeri/public_html/labs/quim/quim.php on line 55
+[28-Dec-2012 18:20:03] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/ruggeri/public_html/labs/quim/quim.php on line 20
+[28-Dec-2012 18:20:03] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ruggeri/public_html/labs/quim/quim.php on line 27
+[28-Dec-2012 18:20:03] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 28
+[28-Dec-2012 18:20:04] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 37
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:04] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:08] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/ruggeri/public_html/labs/quim/quim.php on line 20
+[28-Dec-2012 18:20:08] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ruggeri/public_html/labs/quim/quim.php on line 27
+[28-Dec-2012 18:20:08] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 28
+[28-Dec-2012 18:20:08] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 37
+[28-Dec-2012 18:20:08] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:08] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:08] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:08] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:08] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:08] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:08] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:08] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49
+[28-Dec-2012 18:20:08] PHP Warning:  imagechar() expects parameter 1 to be resource, boolean given in /home/ruggeri/public_html/labs/quim/quim.php on line 49

@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>Quote Image Maker</title>
+    <style>
+      body {
+        background-color: #000000;
+        color: #ffffff;
+        text-align:center;
+      }
+      input.hint {
+        color: dddddd;
+      }
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>    
+    <script>
+      $(document).ready(function(){
+      });
+    </script>
+  </head>
+  <body>
+  <?php
+      $k = $_GET['k'];
+      if($k){
+        print '<img src="quim.php?k=' . $k . '"><br>'; 
+      }
+    ?>
+  <img src="quim.png"/>
+    <form action="/labs/quim/" method="get">
+      <input type="text" class="text" name="k"/>
+      <input type="submit" value="make"/>
+    </form>
+  </body>
+<html>
